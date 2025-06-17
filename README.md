@@ -74,5 +74,15 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
 2.  **Jalankan Skrip:**
     Anda dapat menjalankan setiap file secara individual menggunakan Python untuk mengamati output dan memahami cara kerjanya.
     ```bash
-    python <NAMA_FILE.py>
+    python Cookie.py
+    
+    python O(1).py
+    
+    python O(n).py
+    
+    python "Drop+Const.py"
+    
+    python "Different+Terms.py"
+    
+    python "Non+Dom.py"
     ```
