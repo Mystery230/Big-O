@@ -68,8 +68,8 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone <URL_REPOSITORI_ANDA>
-    cd <NAMA_DIREKTORI_ANDA>
+    git clone [<URL_REPOSITORI_ANDA>](https://github.com/Mystery230/Big-O.git)
+    cd Big-O
     ```
 2.  **Jalankan Skrip:**
     Anda dapat menjalankan setiap file secara individual menggunakan Python untuk mengamati output dan memahami cara kerjanya.
