@@ -68,7 +68,7 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [<URL_REPOSITORI_ANDA>](https://github.com/Mystery230/Big-O.git)
+    git clone https://github.com/Mystery230/Big-O.git
     cd Big-O
     ```
 2.  **Jalankan Skrip:**
