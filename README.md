@@ -43,7 +43,7 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
 * **Deskripsi:** Skrip ini memiliki fungsi dengan dua *loop* terpisah yang masing-masing berjalan `n` kali. Meskipun total operasinya adalah $O(2n)$, dalam Notasi Big O kita menghilangkan konstanta, sehingga kompleksitasnya disederhanakan menjadi $O(n)$.
 * **Untuk Menjalankan:**
     ```bash
-    python "Drop+Const.py"
+    python Drop+Const.py
     ```
 
 ### 5. `Different+Terms.py`
@@ -52,7 +52,7 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
 * **Deskripsi:** Fungsi ini menerima dua argumen, `a` dan `b`, dan memiliki dua *loop* terpisah yang masing-masing bergantung pada salah satu input. Kompleksitas waktunya adalah $O(a + b)$, menunjukkan bagaimana kita menganalisis kompleksitas ketika ada beberapa variabel input yang tidak saling bergantung.
 * **Untuk Menjalankan:**
     ```bash
-    python "Different+Terms.py"
+    python Different+Terms.py
     ```
 
 ### 6. `Non+Dom.py`
@@ -61,7 +61,7 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
 * **Deskripsi:** Fungsi ini berisi *loop* bersarang ($O(n²)$) diikuti oleh *loop* tunggal ($O(n)$). Kompleksitas totalnya adalah $O(n² + n)$. Saat menganalisis Big O, kita hanya menyimpan suku yang paling signifikan (dominan), sehingga kompleksitasnya disederhanakan menjadi $O(n²)$.
 * **Untuk Menjalankan:**
     ```bash
-    python "Non+Dom.py"
+    python Non+Dom.py
     ```
 
 ## Cara Menggunakan
@@ -80,9 +80,9 @@ Berikut adalah rincian dari setiap skrip yang disertakan:
     
     python O(n).py
     
-    python "Drop+Const.py"
+    python Drop+Const.py
     
-    python "Different+Terms.py"
+    python Different+Terms.py
     
-    python "Non+Dom.py"
+    python Non+Dom.py
     ```
